@@ -1,12 +1,12 @@
 {
-    "name": "packagebackup/laravel-dadata",
+    "name": "kalitvyan/laravel-dadata",
     "description": "Dadata API client (https://dadata.ru)",
     "keywords": ["laravel", "dadata", "autocomplete"],
     "type": "package",
     "license": "MIT",
     "authors": [
         {
-            "name": "packagebackup"
+            "name": "kalitvyan"
         }
     ],
     "require": {
